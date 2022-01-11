@@ -1,0 +1,8 @@
+a =int(input("enter the number"))
+lst=[]
+i=0
+while i<a:
+	c=int(input(f'enter {i+1} elements'))
+	i+=1
+	lst.append(i)
+print(lst)

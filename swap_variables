@@ -1,0 +1,6 @@
+a=10
+b=299
+temp = a
+a=b
+print("the variable value of a  is after swapping ",b)
+print("the variable value of b is after swapping",temp)
