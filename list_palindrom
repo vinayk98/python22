@@ -1,0 +1,6 @@
+a=[1,2,3,2,1]
+b=a[::-1]
+if a==b:
+	print("list is a palindrom")
+else:
+	print("list is not a palindrom")
